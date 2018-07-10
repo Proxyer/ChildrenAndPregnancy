@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <WordHumanPregnancy>妊娠</WordHumanPregnancy>
@@ -9,5 +9,8 @@
   <MessageHavingContractions>{0} の陣痛が始まりました。</MessageHavingContractions>
 
   <MessageWeaponTooLarge>警告：{0}は{1}が安全に扱うには武器が大きすぎます。</MessageWeaponTooLarge>
+
+  <MessageAdultClothesOnBaby>大人の服は{0}にとって大きすぎます。</MessageAdultClothesOnBaby>
+  <MessageBabyClothesOnAdult>赤ちゃん用の服は{0}にとって小さすぎます。</MessageBabyClothesOnAdult>
 
 </LanguageData>
